@@ -7,9 +7,8 @@
   height: 100%;
 }
 
-.grid-element {
+.active-grid-element {
   background-color: pink;
-  border: solid black;
 }
 
 .flex {
@@ -18,4 +17,8 @@
 
 .fill-height {
   height: 90vh;
+}
+
+.border-black {
+  border: solid black;
 }
