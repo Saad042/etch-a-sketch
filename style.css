@@ -1,0 +1,21 @@
+.flex-container {
+  display: flex;
+}
+
+.fd-column {
+  flex-direction: column;
+  height: 100%;
+}
+
+.grid-element {
+  background-color: pink;
+  border: solid black;
+}
+
+.flex {
+  flex: 1;
+}
+
+.fill-height {
+  height: 90vh;
+}
