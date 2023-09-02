@@ -16,9 +16,13 @@
 }
 
 .fill-height {
-  height: 90vh;
+  height: 85vh;
 }
 
 .border-black {
   border: solid black;
+}
+
+.generate-btn{
+  margin-bottom: 10px;
 }
